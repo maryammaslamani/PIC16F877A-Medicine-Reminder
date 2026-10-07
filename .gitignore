@@ -1,0 +1,13 @@
+# MPLAB X local settings and generated build output
+**/nbproject/private/
+**/build/
+**/debug/
+**/dist/
+
+# Proteus user workspace and backup files
+*.workspace
+*.pdsbak
+
+# Common operating-system artifacts
+.DS_Store
+Thumbs.db
